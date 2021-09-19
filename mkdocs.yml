@@ -1,0 +1,13 @@
+site_name: CCDC Handbook
+repo_url: https://github.com/ius-csg/CSG-Documentation
+repo_name: GitHub
+theme:
+  name: 'material'
+plugins:
+    - search
+    - autolinks
+markdown_extensions:
+    - abbr
+    - nl2br
+    - def_list
+    - sane_lists
